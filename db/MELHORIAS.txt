@@ -1,0 +1,26 @@
+MELHORIAS
+1 - (1/2 V)falta a opção de exclir aluno do projeto e tirar os membros que já estão no projeto das opções de adicionar novos membros. Além de um filtro e busca para os desenvolvedores, devido a grande quantidade de usuários que o sistema terá futuramente
+
+2 - (1/2 V) Na lista de projetos aparecer as categorias como tags, dessa forma nem precisa do nome 'categorias', apenas exibir as tags, a mesma coisa para as plataformas, substituir os nomes por figuras ilustrativas, simbolos.
+
+3 - (V) Escolher a fonte e padronizar ela.
+
+4 - (V) Na tela inicial do gerente exibir o botão 'editar', sendo assim vai ser possível deixar os dois botões de visualizar e cadastrar-se.
+
+5 - (1/2 V) Ter um pré-estágio entre aceitar a ideia e publicada como projeto, para não exibir projetos incompletos na página inicial.
+
+6 - (V) Opção do gerente publicar ou não o projeto.
+
+7 - Lixeira de ideias, para projetos recusados, sendo possível ir na lixeira, retirar o projeto e aceitar ele.
+
+8 - (V) Exibir mensagem de informação ao aceitar ou recusar ideia, tipo 'tem certeza?'
+
+9 - Filtrar projetos por data e por outras informações como alunos.
+
+10 - Enviar um texto de justificativa para quando aceitar ou recusar a ideia.
+
+11 - Para projetos recusados, ter a opção de reformular a ideia.
+
+12 - A FOTA.
+
+13 - Larissa escreveu BLOG aqui.

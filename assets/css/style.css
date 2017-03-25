@@ -1,0 +1,131 @@
+.div-maior2{
+    width: 100%;
+    border: 1px; 
+}
+
+.div-aceitar{
+    border-radius: 12%;
+    border-style: solid;
+    border-color: gray;
+    background-color: #aadd80;
+    width: 400px;
+    height: auto;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-bottom: 25px;
+    display: block;
+
+    box-shadow: 5px 5px 0 #333;
+    -webkit-box-shadow: 5px 5px 0 #333;
+    -moz-box-shadow: 5px 5px 0 #333;
+}
+
+.baixar{
+    padding-bottom: 30px;
+}
+.back-verde{
+    background-color: #aadd80;
+}
+
+.float-left{
+    float: left;
+}
+
+.botao2{
+    width: 80px;
+    height: 30px;
+    background-color: #306605;
+    border-color: #306605;
+    color: white ;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
+.botao3{
+    width: 80px;
+    height: 30px;
+    background-color: #e03e3e;
+    border-color: #e03e3e;
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
+.centralizar-botoes{
+    margin-left: 25%;
+}
+
+.img-projeto{
+    width: 100px;
+    max-width: 100px;
+    height: 100px;
+    max-height: 100px;
+}
+
+.branco{
+    color: #FFF;
+}
+
+.panel-footer{
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.ls-user-menu ul li a:hover{
+    color: black !important;
+}
+
+.distancia-texto-img {
+    height: 260px;
+}
+
+.logo-normal{
+    height: 100px;
+}
+
+.logo-adaptavel{
+    height: 100px;
+}
+
+.texto-page-projetos{
+    height: 300px;
+}
+
+@media(max-width: 768px){
+    .logo-normal{
+        height: 200px;
+    }
+
+    .logo-adaptavel{
+        height: 200px;
+        width: auto !important;
+    }
+
+    .logo-responsiva{
+        height: 200px;
+    }
+    .img-responsiva{
+        height: 300px;
+    }
+    .texto-responsivo{
+        padding-top: 20px;
+        height: auto;
+    }
+    .espacamento-logo-texto{
+        padding-bottom: 0px !important;
+    }
+    
+    .texto-page-projetos{
+        padding-top: 90px;
+        height: auto;
+    }
+    
+}
+
+@media(min-width: 768px){
+    .logo-responsiva{
+        height: 100px;          
+    }
+}
